@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Olá! bemvindo ao meu perfil no Github.
+## Meu nome é Letícia Melo e meu apelido é Let! 👋
+
+- Desenvolvedora Frontend em Formação
+- 🌱 Atualmente estou aprendendo JavaScript | HTML | CSS | React | GitHub
+
+## Sobre Mim 💁🏾‍♀️
+Sou uma profissional em transição de carreira, migrando da área administrativa para o empolgante universo da Análise e Desenvolvimento de Sistemas. Com experiência em organização, atendimento ao público e trabalho em equipe, trago para essa nova tragetória, competências como comunicação, resolução de problemas e adaptabilidade.
+
+## Meu objetivo 🎯
+Meu objetivo é trilhar a carreira como Desenvolvedora Frontend, pois acredito no poder da tecnologia para impactar positivamente a vida das pessoas e das organizações. Estou em busca de oportunidades (como estágios/treinee ou projetos colaborativos) para aplicar meus conhecimentos e crescer profissionalmente.
 
 <!--
 **LetMellod/letmellod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
