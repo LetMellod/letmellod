@@ -1,6 +1,6 @@
-# 👋 Olá! bemvindo ao meu perfil no Github.
+# 👋 Olá! Bem vindo(a) ao meu github.
 
-### Meu nome é Letícia Melo e meu apelido é Let! 👋
+### Meu nome é Letícia Melo e meu apelido é Let!
 
 - Desenvolvedora Frontend em Formação
 - 🌱 Atualmente estou aprendendo JavaScript | HTML | CSS | React | GitHub
